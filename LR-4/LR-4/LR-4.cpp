@@ -1,4 +1,4 @@
-﻿#include<iostream>
+#include<iostream>
 #include<string>
 #include<windows.h>
 using namespace std;
@@ -12,11 +12,14 @@ int main()
 	string r1 = "тысяча";
 	string r2 = "тысяч";
 	string r3 = "тысячи", pr;
+	string z = "рубль";
+	string x = "рубля";
+	string c = "рублей", zxc;
 	int num,digitcount=0;
 	cout << "Введите неообходимое число (от 0 до 100000)" << endl;
 	cin >> num;
 	int k = num;
-error:
+ error:
  while (k > 0)
 	{
 		k/= 10;
@@ -69,4 +72,10 @@ error:
 		digitcount = 0;
 		goto error;
 	}
+	if (num % 10 == 1 && num % 100 != 11)
+		cout << " рубль";
+	else if (num % 10 >= 2 && num % 10 <= 4 && (num % 100 < 10 || num % 100 >= 20))
+		cout << " рубля";
+	else
+		cout << " рублей";
 }
