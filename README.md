@@ -14,7 +14,7 @@
 Открыть файл с помощью нужного компилятора (можно скопировать текст в онлайн), сделать откалдку и компиляцию программы, проверить на тестах.
 
 # Скриншоты тестов
-![WindowsTerminal_8nK78wfXHp](https://github.com/4s4ken/LR-4/assets/65232734/fcf8dde6-c460-492b-94a7-6c4cf4a60311)
-![WindowsTerminal_xuP3OA5eGa](https://github.com/4s4ken/LR-4/assets/65232734/9a4f2710-52cf-4470-99d1-99df41f40c3f)
-![WindowsTerminal_Ah1Y1U4TFN](https://github.com/4s4ken/LR-4/assets/65232734/c9927828-b864-47b1-82cf-b0d0b137777c)
-![WindowsTerminal_g6p1z2CaRZ](https://github.com/4s4ken/LR-4/assets/65232734/18040c5b-8e9f-4107-b579-04e0fbef91b4)
+![WindowsTerminal_S2vnvHt4Tw](https://github.com/4s4ken/LR-4/assets/65232734/d0266d69-a631-4084-8af7-c99ef30bdc40)
+![WindowsTerminal_BEoumKhCua](https://github.com/4s4ken/LR-4/assets/65232734/942c42b2-7319-46e5-8acf-49e163dba69b)
+![WindowsTerminal_TXjAZQIRPE](https://github.com/4s4ken/LR-4/assets/65232734/24a5e59e-c671-42d3-aabb-59ec371b3860)
+![WindowsTerminal_YJ70S1qJkU](https://github.com/4s4ken/LR-4/assets/65232734/c96b9af2-503a-4c6b-a146-8039feb3e368)
